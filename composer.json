@@ -19,12 +19,14 @@
 	"kartik-v/yii2-editable": "*",
 	"vova07/yii2-imperavi-widget": "dev-master",
 	"himiklab/yii2-colorbox-widget" : "*",
-	"iutbay/yii2-fontawesome": "*",
+	"iutbay/yii2-fontawesome": "dev-master",
 	"iutbay/yii2-kcfinder" : "dev-master",
 	"amilna/yii2-elevatezoom": "dev-master",
 	"amilna/yii2-yap": "dev-master",
 	"kop/yii2-scroll-pager": "dev-master"
     },
+    "minimum-stability": "dev", 
+    "prefer-stable": true,
     "repositories":[		
 		{
 			"type": "vcs",
